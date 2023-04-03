@@ -22,7 +22,7 @@ This project was implemented using [Gloss](http://gloss.ouroborus.net/). The
 graphics are simple, but convey the point, here is a video of what the 
 genetic algorithm looks like in action:
 
-![Download .mp4 here](https://raw.githubusercontent.com/Archaversine/HaskellSmartRockets/main/haskell-smartrockets.mp4)
+[Download .mp4 Here](https://github.com/Archaversine/HaskellSmartRockets/blob/main/haskell-smartrockets.mp4)
 
 ### Screenshot
 
