@@ -26,4 +26,4 @@ genetic algorithm looks like in action:
 
 ### Screenshot
 
-[Screenshot](https://github.com/Archaversine/HaskellSmartRockets/blob/main/screenshot.png)
+[Screenshot](https://raw.githubusercontent.com/Archaversine/HaskellSmartRockets/main/screenshot.png)
