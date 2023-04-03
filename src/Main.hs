@@ -5,7 +5,7 @@ import Data.List (sortOn)
 import Graphics.Gloss
 import Graphics.Gloss.Data.ViewPort
 
-import System.Random
+import System.Random (newStdGen, randomR, StdGen)
 
 import qualified Data.Vector as V
 
