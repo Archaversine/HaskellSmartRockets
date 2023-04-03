@@ -66,7 +66,7 @@ windowSize :: Int
 windowSize = 500
 
 populationSize :: Int
-populationSize = 100
+populationSize = 200
 
 lifespan :: Int
 lifespan = 500
