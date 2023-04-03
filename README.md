@@ -14,7 +14,7 @@ The following parameters are used for the genetic algorithm:
 
 | Parameter         | Value        |
 |-------------------|--------------|
-| Population Size   | 100          |
+| Population Size   | 200          |
 | Lifespan (Frames) | 500          |
 | Crossover Rate    | 80%          |
 | Crossover Type    | Single Point |
