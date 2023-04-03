@@ -212,7 +212,7 @@ drawWorld (World target obstacle pop _ _) = pictures $ targ : ob : map drawRocke
           ob = drawObstacle obstacle
 
 window :: Display
-window = InWindow "Haskell SmartRockets" (windowSize, windowSize) (2000, 10)
+window = InWindow "Haskell SmartRockets" (windowSize, windowSize) (10, 10)
 
 main :: IO ()
 main = do
