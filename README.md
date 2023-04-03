@@ -3,6 +3,11 @@
 A remake of [this project](https://github.com/Archaversine/Neuroevolution-Missiles),
 which was based off of [TheCodingTrain's p5js project](https://thecodingtrain.com/challenges/29-smart-rockets-in-p5js).
 
+In this project, small rockets try to reach the red circle on the other side of
+the wall. If they hit the wall, then they die and cannot progress any further.
+The rockets eventually get better and better at going around the wall via a 
+genetic algorithm.
+
 ## Genetic Algorithm Parameters
 
 The following parameters are used for the genetic algorithm:
